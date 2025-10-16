@@ -4,7 +4,8 @@
 
 > **TL;DR**: AI won’t replace _all_ jobs, but it will reshape **tasks** within most jobs, speed  up some careers, diminish others, and create new roles. The outcome depends on **how** we  adopt AI, how quickly we **reskill**, and which **policies** we put in place.
 
----
+
+
 
 ## 1) The wrong question: jobs vs. tasks
 
@@ -24,7 +25,7 @@ A good rule of thumb:
 
 > **Key idea**: **Tasks** are automated; **jobs** are redesigned.
 
----
+
 
 ## 2) What the best recent evidence says
 
@@ -43,7 +44,7 @@ A good rule of thumb:
 
 > **Takeaway**: In the near term, AI looks more like a **broad productivity booster** and **task reshuffler** than a universal job destroyer. Over time, transitions could be large—and uneven.
 
----
+
 
 ## 3) Who’s at risk, who benefits?
 
@@ -57,40 +58,40 @@ A good rule of thumb:
 - Skilled trades and on‑site physical work (until robots catch up).  
 - Jobs requiring domain knowledge + judgement + accountability (software, product, data, law—augmented rather than replaced).
 
-Early career boost: The contact‑center study and lab experiments show AI can encode and spread best practices, letting juniors perform closer to seniors sooner. That raises productivity—and sometimes wage pressure—but may also compress career ladders unless organizations redesign roles.
+**Early career boost**: The contact‑center study and lab experiments show AI can **encode and spread best practices**, letting juniors perform closer to seniors sooner. That raises **productivity**—and sometimes **wage pressure**—but may also **compress career ladders** unless organizations redesign roles.
 
----
 
-4) What actually changes inside a job?
 
-1. Time allocation shifts: less rough‑drafting, more reviewing, prompting, verifying.  
-2. Quality bars rise: if AI drafts “good enough”, human value moves to problem framing, data/context curation, taste, and verification.  
-3. Skills portfolio updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
-4. Metrics change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
+## 4) What actually changes inside a job?
 
-Design principle for teams: Automate the boring, amplify the human.
+1. **Time allocation** shifts: less rough‑drafting, more reviewing, prompting, verifying.  
+2. **Quality bars** rise: if AI drafts “good enough”, human value moves to **problem framing, data/context curation, taste**, and **verification**.  
+3.** Skills portfolio** updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
+4. **Metrics** change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
 
----
+>  **Design principle for teams:** _Automate the boring, amplify the human_.
 
-5) What should you (a first‑year IT student) do?
 
-- Master the basics of data + automation: get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
-- Practice “prompt → verify → ship”: use AI to draft, but always check sources, test outputs, and document assumptions.  
-- Build a visible portfolio: small public repos showing before/after with and without AI (README demos, notebooks).  
-- Invest in durable skills: systems thinking, communication, security mindset, and domain context.  
-- Work in pairs/teams: peer review catches model errors and improves your prompts and specs.  
+
+## 5) What should you (a first‑year IT student) do?
+
+- **Master the basics of data + automation**: get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
+- **Practice “prompt → verify → ship”**: use AI to draft, but always check sources, test outputs, and document assumptions.  
+- **Build a visible portfolio**: small public repos showing before/after with and without AI (README demos, notebooks).  
+- **Invest in durable skills**: systems thinking, communication, security mindset, and domain context.  
+- **Work in pairs/teams**: peer review catches model errors and improves your prompts and specs.  
 
 A simple checklist for any AI‑assisted task:
 
 - [ ] Define the task and acceptance criteria.  
-- [ ] Draft with AI and log prompts.  
-- [ ] Verify: test, cite sources, run sanity checks.  
-- [ ] Document what the tool did vs. what you did.  
+- [ ] Draft with AI and **log prompts**.  
+- [ ] **Verify**: test, cite sources, run sanity checks.  
+- [ ] Document what the tool did vs. what **you** did.  
 - [ ] Commit in small steps with clear messages.  
 
 ---
 
-6) Policy and management levers (why this matters for outcomes)
+## 6) Policy and management levers (why this matters for outcomes)
 
 - Reskilling at scale (short, modular programs) to help workers cross into rising occupations.  
 - Job redesign: let humans own goals and judgement, while AI handles defined sub‑tasks.  
